@@ -1,0 +1,5 @@
+.idea
+vendor
+composer.lock
+*results
+test.sh
